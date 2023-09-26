@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.pixabay.com/animation/2023/01/24/10/52/10-52-12-184_512.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/4no7ul3pa571e/giphy.gif"  />
 
 ###
 
@@ -33,7 +33,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucaDifino96/LucaDifino96/output/snake.svg" alt="Snake animation" />
 
 ###
 
